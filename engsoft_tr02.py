@@ -1,11 +1,8 @@
 from engsoft_tr01 import sum
 
 
-print("Hello, Software engineering world!!")
-
-
 def main():
-    print(sum(3, 6))
+    print("Sum of 3 + 6 = ", sum(3, 6))
 
 
 if __name__ == "__main__":
